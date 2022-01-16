@@ -15,3 +15,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+NOTE: This project is currently tested and deployed on Rinkeby testnet. People interacting with the application requires some fake ether in their wallets.
